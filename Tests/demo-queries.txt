@@ -1,0 +1,69 @@
+DirectSupercategory felidae
+DirectSupercategory jungleCat
+DirectSupercategory carnivora
+DirectSupercategory canidae
+DirectSupercategory lion
+DirectSupercategory lycaon
+DirectSupercategory feliformia
+
+AllSupercategories panthera
+AllSupercategories carnivora
+AllSupercategories sandCat
+AllSupercategories felidae
+AllSupercategories lycaon
+AllSupercategories caniformia
+AllSupercategories jaguar
+
+NumberOfAllSupercategories carnivora
+NumberOfAllSupercategories sandCat
+NumberOfAllSupercategories panthera
+NumberOfAllSupercategories canidae
+NumberOfAllSupercategories caniformia
+NumberOfAllSupercategories felidae
+NumberOfAllSupercategories jaguar
+
+IsSupercategory tiger panthera
+IsSupercategory jaguar carnivora
+IsSupercategory felis caniformia
+IsSupercategory lycaon carnivora
+IsSupercategory canidae feliformia
+IsSupercategory sandCat canisLupus
+IsSupercategory felidae feliformia
+
+ClosestCommonSupercategory cat jungleCat
+ClosestCommonSupercategory jaguar sandCat
+ClosestCommonSupercategory panthera felis
+ClosestCommonSupercategory tiger canidae
+ClosestCommonSupercategory felidae canisLupus
+ClosestCommonSupercategory sandCat lycaon
+ClosestCommonSupercategory feliformia carnivora
+ClosestCommonSupercategory lion lion
+
+DirectSubcategories canidae
+DirectSubcategories panthera
+DirectSubcategories felidae
+DirectSubcategories felis
+DirectSubcategories carnivora
+
+AllSubcategories carnivora
+AllSubcategories felis
+AllSubcategories sandCat
+AllSubcategories caniformia
+AllSubcategories felidae
+AllSubcategories panthera
+
+NumberOfAllSubcategories carnivora
+NumberOfAllSubcategories jungleCat
+NumberOfAllSubcategories panthera
+NumberOfAllSubcategories canisLupus
+NumberOfAllSubcategories felidae
+NumberOfAllSubcategories felis
+NumberOfAllSubcategories caniformia
+
+IsSubcategory panthera lion
+IsSubcategory lion panthera
+IsSubcategory cat felidae
+IsSubcategory tiger feliformia
+IsSubcategory lycaon jaguar
+IsSubcategory tiger caniformia
+IsSubcategory felidae carnivora

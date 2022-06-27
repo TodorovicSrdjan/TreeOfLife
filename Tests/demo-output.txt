@@ -1,0 +1,61 @@
+DirectSupercategory felidae feliformia
+DirectSupercategory jungleCat felis
+DirectSupercategory carnivora
+DirectSupercategory canidae caniformia
+DirectSupercategory lion panthera
+DirectSupercategory lycaon canidae
+DirectSupercategory feliformia carnivora
+AllSupercategories panthera felidae feliformia carnivora
+AllSupercategories carnivora
+AllSupercategories sandCat felis felidae feliformia carnivora
+AllSupercategories felidae feliformia carnivora
+AllSupercategories lycaon canidae caniformia carnivora
+AllSupercategories caniformia carnivora
+AllSupercategories jaguar panthera felidae feliformia carnivora
+NumberOfAllSupercategories carnivora 0
+NumberOfAllSupercategories sandCat 4
+NumberOfAllSupercategories panthera 3
+NumberOfAllSupercategories canidae 2
+NumberOfAllSupercategories caniformia 1
+NumberOfAllSupercategories felidae 2
+NumberOfAllSupercategories jaguar 4
+IsSupercategory tiger panthera yes
+IsSupercategory jaguar carnivora yes
+IsSupercategory felis caniformia no
+IsSupercategory lycaon carnivora yes
+IsSupercategory canidae feliformia no
+IsSupercategory sandCat canisLupus no
+IsSupercategory felidae feliformia yes
+ClosestCommonSupercategory cat jungleCat felis
+ClosestCommonSupercategory jaguar sandCat felidae
+ClosestCommonSupercategory panthera felis felidae
+ClosestCommonSupercategory tiger canidae carnivora
+ClosestCommonSupercategory felidae canisLupus carnivora
+ClosestCommonSupercategory sandCat lycaon carnivora
+ClosestCommonSupercategory feliformia carnivora carnivora
+ClosestCommonSupercategory lion lion lion
+DirectSubcategories canidae canisLupus lycaon
+DirectSubcategories panthera jaguar lion tiger
+DirectSubcategories felidae felis panthera
+DirectSubcategories felis cat jungleCat sandCat
+DirectSubcategories carnivora caniformia feliformia
+AllSubcategories carnivora caniformia canidae canisLupus lycaon feliformia felidae felis cat jungleCat sandCat panthera jaguar lion tiger
+AllSubcategories felis cat jungleCat sandCat
+AllSubcategories sandCat
+AllSubcategories caniformia canidae canisLupus lycaon
+AllSubcategories felidae felis cat jungleCat sandCat panthera jaguar lion tiger
+AllSubcategories panthera jaguar lion tiger
+NumberOfAllSubcategories carnivora 14
+NumberOfAllSubcategories jungleCat 0
+NumberOfAllSubcategories panthera 3
+NumberOfAllSubcategories canisLupus 0
+NumberOfAllSubcategories felidae 8
+NumberOfAllSubcategories felis 3
+NumberOfAllSubcategories caniformia 3
+IsSubcategory panthera lion no
+IsSubcategory lion panthera yes
+IsSubcategory cat felidae yes
+IsSubcategory tiger feliformia yes
+IsSubcategory lycaon jaguar no
+IsSubcategory tiger caniformia no
+IsSubcategory felidae carnivora yes

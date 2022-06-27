@@ -1,0 +1,9 @@
+DirectSupercategory category
+AllSupercategories category
+NumberOfAllSupercategories category
+IsSupercategory category1 category2
+ClosestCommonSupercategory category1 category2
+DirectSubcategories category1
+AllSubcategories category1
+NumberOfAllSubcategories category1
+IsSubcategory category1 category2
