@@ -1,0 +1,7 @@
+carnivora feliformia caniformia
+feliformia felidae
+caniformia canidae
+felidae panthera felis
+canidae lycaon canisLupus
+panthera lion tiger jaguar
+felis cat jungleCat sandCat

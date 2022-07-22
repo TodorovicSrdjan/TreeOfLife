@@ -1,0 +1,14 @@
+DirectSupercategory wifiProjectors projectors
+AllSupercategories carStereoReceivers carAudio carEletronics electronics
+NumberOfAllSupercategories carSafety 2
+IsSupercategory amplifiers carAudio yes
+ClosestCommonSupercategory acoustic guitars musicalInstruments
+DirectSubcategories microphones micBundle popcastMic USBMic
+AllSubcategories solidBody
+NumberOfAllSubcategories guitars acoustic bass acousticElectricBass eletricBass classical electric hollowBody solidBody steelBody
+IsSubcategory acousticElectricBass bass yes
+IsSubcategory software USBMic no
+NumberOfAllSubcategories musicalInstruments 22
+ClosestCommonSupercategory steelBody microphones musicalInstruments
+DirectSupercategory computerRecording recording
+DirectSubcategories virtualReality cellphoneVR VRheadsets

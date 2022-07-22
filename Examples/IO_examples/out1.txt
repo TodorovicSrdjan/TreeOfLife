@@ -1,0 +1,9 @@
+DirectSupercategory felidae feliformia
+AllSupercategories felidae feliformia carnivora
+NumberOfAllSupercategories canisLupus 3
+IsSupercategory panthera canisLupus no
+ClosestCommonSupercategory jungleCat canisLupus carnivora
+DirectSubcategories felis cat jungleCat sandCat
+AllSubcategories tiger
+NumberOfAllSubcategories canidae 2
+IsSubcategory caniformia jaguar no
